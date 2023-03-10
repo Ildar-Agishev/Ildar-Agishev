@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
 - <b>Powershell</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/LABURL) <b><i>(Bulk User Creation)</b></i>
+  - [Active Directory Home Lab](https://github.com/Ildar-Agishev/AD-with-Powershell) <b><i>(Bulk User Creation)</b></i>
 - <b>Threat Detection and Security Incident Response</b>
   - [Microsoft SIEM Azure Sentinel](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Vulnerability Management</b>
