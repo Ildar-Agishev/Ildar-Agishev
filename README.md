@@ -7,7 +7,7 @@
 - <b>Threat Detection and Security Incident Response</b>
   - [Microsoft SIEM Azure Sentinel](https://github.com/Ildar-Agishev/Azure-Sentinel-SIEM-Lab) 
 - <b>Vulnerability Management</b>
-  - [Nessus](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Nessus](https://github.com/Ildar-Agishev/VM-with-Nessus)
   
 
 <h2>📃 Certifications</h2>
