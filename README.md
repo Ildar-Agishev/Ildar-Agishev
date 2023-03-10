@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
-- <b>Powershell</b>
+- <b>PowerShell</b>
   - [Active Directory Home Lab](https://github.com/Ildar-Agishev/AD-with-Powershell) <b><i>(Bulk User Creation)</b></i>
 - <b>Threat Detection and Security Incident Response</b>
   - [Microsoft SIEM Azure Sentinel](https://github.com/Ildar-Agishev/Azure-Sentinel-SIEM-Lab) 
@@ -23,9 +23,7 @@
 - [Nessus](https://youtu.be/JhDxiwLyQrE)
 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="IldarAgishev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
