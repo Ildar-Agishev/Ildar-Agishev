@@ -13,6 +13,7 @@
 <h2>📃 Certifications</h2>
 
 - [CompTIA Security+](https://www.credly.com/badges/806d37f7-ce41-4b4d-a021-7168b3f27d32/public_url)
+- [(ISC)² СС](https://www.credly.com/badges/97d0477e-612e-4137-8d50-aff17629483d/public_url)
 - [(ISC)² Candidate](https://www.credly.com/badges/b52604cd-5839-4122-861e-11bfcab524dc/public_url)
 - CompTIA Network+<i>(expected completion Spring 2023)</i>
 
