@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ildar! <br/><a href="https://www.linkedin.com/in/ildar-agishev/">Junior SOC Analyst</a>
+<h1>Hi, I'm Ildar! <br/><a href="https://www.linkedin.com/in/ildar-agishev/"></a>
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
