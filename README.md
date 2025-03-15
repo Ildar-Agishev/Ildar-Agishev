@@ -14,7 +14,6 @@
 
 - [CompTIA Security+](https://www.credly.com/badges/806d37f7-ce41-4b4d-a021-7168b3f27d32/public_url)
 - [(ISC)² СС](https://www.credly.com/badges/97d0477e-612e-4137-8d50-aff17629483d/public_url)
-- [(ISC)² Candidate](https://www.credly.com/badges/b52604cd-5839-4122-861e-11bfcab524dc/public_url)
 - [CompTIA Network+](https://www.credly.com/badges/3ccb2b34-b6a5-4e3c-9ecd-67e8762d75d6/public_url)</i>
 
 <h2>📺 YouTube Videos</h2>
