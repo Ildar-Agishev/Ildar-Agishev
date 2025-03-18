@@ -8,7 +8,8 @@
   - [Microsoft SIEM Azure Sentinel](https://github.com/Ildar-Agishev/Azure-Sentinel-SIEM-Lab) 
 - <b>Vulnerability Management</b>
   - [Nessus](https://github.com/Ildar-Agishev/VM-with-Nessus)
-  
+- <b>Patching</b>
+  - [WSUS](https://github.com/Ildar-Agishev/Patching-with-WSUS)
 
 <h2>📃 Certifications</h2>
 
